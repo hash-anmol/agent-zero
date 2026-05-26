@@ -51,3 +51,7 @@ agent_history.gif
 .agent/**
 .claude/**
 .playwright-cli/
+
+# Local planning notes
+/plans/
+/plans/telegram integration.md
